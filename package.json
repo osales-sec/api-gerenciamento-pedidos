@@ -1,0 +1,22 @@
+{
+  "name": "api-gerenciamento-pedidos",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de pedidos (Node.js + Express)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Anderson Sales de Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
